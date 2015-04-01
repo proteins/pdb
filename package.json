@@ -1,0 +1,27 @@
+{
+  "name": "pdb",
+  "version": "1.0.0",
+  "description": "PDB file parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/proteins/pdb"
+  },
+  "keywords": [
+    "biology",
+    "parsing",
+    "file-formats",
+    "pdb",
+    "proteins",
+    "files"
+  ],
+  "author": "Liam Marshall",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/proteins/pdb/issues"
+  },
+  "homepage": "https://github.com/proteins/pdb"
+}
